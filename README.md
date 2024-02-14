@@ -22,6 +22,7 @@ Some useful information about the application:
 ## App Example-Requirements
 A brief example of what the user will see and what he has to implement
 can be found by running the application and it is demonstrated below:
+
 ![Alt text](/images/example.png "Barbouti")
 
 
